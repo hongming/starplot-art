@@ -1,0 +1,110 @@
+{
+  "source": "starplot-bigsky v0.1.3, mag9, J2000 degrees",
+  "stars": [
+    {
+      "hip": 677,
+      "ra": 2.0969,
+      "dec": 29.0904,
+      "magnitude": 2.07,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 107315,
+      "ra": 326.0465,
+      "dec": 9.875,
+      "magnitude": 2.38,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 113881,
+      "ra": 345.9436,
+      "dec": 28.0828,
+      "magnitude": 2.44,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 113963,
+      "ra": 346.1902,
+      "dec": 15.2053,
+      "magnitude": 2.49,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 1067,
+      "ra": 3.309,
+      "dec": 15.1836,
+      "magnitude": 2.83,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112158,
+      "ra": 340.7505,
+      "dec": 30.2212,
+      "magnitude": 2.93,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112029,
+      "ra": 340.3655,
+      "dec": 10.8314,
+      "magnitude": 3.41,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112748,
+      "ra": 342.5008,
+      "dec": 24.6016,
+      "magnitude": 3.51,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 109427,
+      "ra": 332.55,
+      "dec": 6.1979,
+      "magnitude": 3.52,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 109176,
+      "ra": 331.7527,
+      "dec": 25.3451,
+      "magnitude": 3.77,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112440,
+      "ra": 341.6328,
+      "dec": 23.5657,
+      "magnitude": 3.97,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 107354,
+      "ra": 326.1614,
+      "dec": 25.645,
+      "magnitude": 4.14,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112447,
+      "ra": 341.6732,
+      "dec": 12.1729,
+      "magnitude": 4.2,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 109410,
+      "ra": 332.4969,
+      "dec": 33.1783,
+      "magnitude": 4.28,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 109352,
+      "ra": 332.3068,
+      "dec": 33.1723,
+      "magnitude": 5.58,
+      "epoch_year": 2000.0
+    }
+  ]
+}

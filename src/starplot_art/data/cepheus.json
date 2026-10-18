@@ -1,0 +1,57 @@
+{
+  "id": "CON modern Cep",
+  "lines": [
+    [
+      109492,
+      112724,
+      106032,
+      105199,
+      109492
+    ],
+    [
+      112724,
+      116727,
+      106032
+    ]
+  ],
+  "image": {
+    "file": "illustrations/cepheus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          60,
+          335
+        ],
+        "hip": 116727
+      },
+      {
+        "pos": [
+          125,
+          170
+        ],
+        "hip": 106032
+      },
+      {
+        "pos": [
+          335,
+          147
+        ],
+        "hip": 109492
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Cepheus",
+    "byname": "King",
+    "native": "Cepheus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cep",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

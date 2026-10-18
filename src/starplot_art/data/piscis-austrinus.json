@@ -1,0 +1,53 @@
+{
+  "id": "CON modern PsA",
+  "lines": [
+    [
+      113368,
+      111954,
+      108661,
+      107608,
+      109422,
+      111188,
+      113246
+    ]
+  ],
+  "image": {
+    "file": "illustrations/piscis-austrinus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          190,
+          5
+        ],
+        "hip": 113246
+      },
+      {
+        "pos": [
+          82,
+          202
+        ],
+        "hip": 107608
+      },
+      {
+        "pos": [
+          236,
+          92
+        ],
+        "hip": 111954
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Southern Fish",
+    "native": "Piscis Austrinus",
+    "context": "IAU constellation name"
+  },
+  "iau": "PsA",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

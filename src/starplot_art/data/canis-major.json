@@ -1,0 +1,85 @@
+{
+  "id": "CON modern CMa",
+  "lines": [
+    [
+      33160,
+      34045,
+      33347,
+      32349,
+      33977,
+      34444,
+      35037,
+      35904
+    ],
+    [
+      33579,
+      33856,
+      34444
+    ],
+    [
+      33856,
+      33165,
+      31592,
+      31416
+    ],
+    [
+      31592,
+      30324
+    ],
+    [
+      31592,
+      32349
+    ],
+    [
+      33579,
+      32759
+    ],
+    [
+      30122,
+      33579
+    ],
+    [
+      33347,
+      33160
+    ]
+  ],
+  "image": {
+    "file": "illustrations/canis-major.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          21,
+          347
+        ],
+        "hip": 35904
+      },
+      {
+        "pos": [
+          321,
+          24
+        ],
+        "hip": 33160
+      },
+      {
+        "pos": [
+          318,
+          492
+        ],
+        "hip": 30122
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Greater Dog",
+    "native": "Canis Major",
+    "context": "IAU constellation name"
+  },
+  "iau": "CMa",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

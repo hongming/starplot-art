@@ -1,0 +1,48 @@
+{
+  "id": "CON modern Ant",
+  "lines": [
+    [
+      51172,
+      48926
+    ]
+  ],
+  "image": {
+    "file": "illustrations/antlia.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          4,
+          84
+        ],
+        "hip": 51172
+      },
+      {
+        "pos": [
+          72,
+          69
+        ],
+        "hip": 47758
+      },
+      {
+        "pos": [
+          42,
+          120
+        ],
+        "hip": 48926
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Air Pump",
+    "native": "Antlia",
+    "context": "IAU constellation name"
+  },
+  "iau": "Ant",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

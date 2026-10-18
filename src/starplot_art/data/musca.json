@@ -1,0 +1,51 @@
+{
+  "id": "CON modern Mus",
+  "lines": [
+    [
+      62322,
+      57363,
+      61199,
+      61585,
+      62322
+    ]
+  ],
+  "image": {
+    "file": "illustrations/musca.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          57,
+          52
+        ],
+        "hip": 61199
+      },
+      {
+        "pos": [
+          177,
+          68
+        ],
+        "hip": 62322
+      },
+      {
+        "pos": [
+          129,
+          236
+        ],
+        "hip": 57363
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Fly",
+    "native": "Musca",
+    "context": "IAU constellation name"
+  },
+  "iau": "Mus",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

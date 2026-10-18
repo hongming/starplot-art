@@ -1,0 +1,82 @@
+{
+  "id": "CON modern Lep",
+  "lines": [
+    [
+      28910,
+      28103,
+      27288,
+      25985,
+      24305
+    ],
+    [
+      25985,
+      27654,
+      27072,
+      25606,
+      23685
+    ],
+    [
+      25985,
+      25606
+    ],
+    [
+      24305,
+      24845
+    ],
+    [
+      24305,
+      24327
+    ],
+    [
+      23685,
+      24305
+    ],
+    [
+      24327,
+      24244
+    ],
+    [
+      24845,
+      24873
+    ]
+  ],
+  "image": {
+    "file": "illustrations/lepus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          21,
+          48
+        ],
+        "hip": 28910
+      },
+      {
+        "pos": [
+          246,
+          62
+        ],
+        "hip": 24244
+      },
+      {
+        "pos": [
+          213,
+          235
+        ],
+        "hip": 23685
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Hare",
+    "native": "Lepus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Lep",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

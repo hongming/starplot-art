@@ -1,0 +1,50 @@
+{
+  "id": "CON modern Scl",
+  "lines": [
+    [
+      116231,
+      4577,
+      115102,
+      116231
+    ]
+  ],
+  "image": {
+    "file": "illustrations/sculptor.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          231,
+          39
+        ],
+        "hip": 115102
+      },
+      {
+        "pos": [
+          240,
+          106
+        ],
+        "hip": 116231
+      },
+      {
+        "pos": [
+          32,
+          174
+        ],
+        "hip": 4577
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Sculptor",
+    "native": "Sculptor",
+    "context": "IAU constellation name"
+  },
+  "iau": "Scl",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

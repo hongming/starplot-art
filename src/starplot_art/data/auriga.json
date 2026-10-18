@@ -1,0 +1,59 @@
+{
+  "id": "CON modern Aur",
+  "lines": [
+    [
+      28380,
+      28360,
+      24608,
+      23453,
+      23015
+    ],
+    [
+      25428,
+      23015
+    ],
+    [
+      25428,
+      28380
+    ]
+  ],
+  "image": {
+    "file": "illustrations/auriga.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          196,
+          189
+        ],
+        "hip": 28380
+      },
+      {
+        "pos": [
+          419,
+          208
+        ],
+        "hip": 24608
+      },
+      {
+        "pos": [
+          290,
+          423
+        ],
+        "hip": 23015
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Charioteer",
+    "native": "Auriga",
+    "context": "IAU constellation name"
+  },
+  "iau": "Aur",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

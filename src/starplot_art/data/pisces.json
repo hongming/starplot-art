@@ -1,0 +1,71 @@
+{
+  "id": "CON modern Psc",
+  "lines": [
+    [
+      4889,
+      5742
+    ],
+    [
+      4889,
+      6193,
+      5742,
+      7097,
+      8198,
+      9487,
+      8833,
+      7884,
+      7007,
+      4906,
+      3760,
+      1645,
+      118268,
+      116771,
+      117245,
+      116928,
+      115738,
+      114971,
+      115227,
+      115830,
+      116771
+    ]
+  ],
+  "image": {
+    "file": "illustrations/pisces.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          24,
+          104
+        ],
+        "hip": 4889
+      },
+      {
+        "pos": [
+          111,
+          489
+        ],
+        "hip": 9487
+      },
+      {
+        "pos": [
+          481,
+          155
+        ],
+        "hip": 114971
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Fishes",
+    "native": "Pisces",
+    "context": "IAU constellation name"
+  },
+  "iau": "Psc",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

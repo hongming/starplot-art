@@ -1,0 +1,53 @@
+{
+  "id": "CON modern CrB",
+  "lines": [
+    [
+      76127,
+      75695,
+      76267,
+      76952,
+      77512,
+      78159,
+      78493
+    ]
+  ],
+  "image": {
+    "file": "illustrations/corona-borealis.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          16,
+          186
+        ],
+        "hip": 78493
+      },
+      {
+        "pos": [
+          201,
+          203
+        ],
+        "hip": 76952
+      },
+      {
+        "pos": [
+          157,
+          20
+        ],
+        "hip": 76127
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Northern Crown",
+    "native": "Corona Borealis",
+    "context": "IAU constellation name"
+  },
+  "iau": "CrB",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

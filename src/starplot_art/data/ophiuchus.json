@@ -1,0 +1,60 @@
+{
+  "id": "CON modern Oph",
+  "lines": [
+    [
+      86032,
+      86742
+    ],
+    [
+      84012,
+      86742
+    ],
+    [
+      86032,
+      83000,
+      79882,
+      81377,
+      84012,
+      85755
+    ]
+  ],
+  "image": {
+    "file": "illustrations/ophiuchus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          5,
+          183
+        ],
+        "hip": 92946
+      },
+      {
+        "pos": [
+          452,
+          47
+        ],
+        "hip": 77233
+      },
+      {
+        "pos": [
+          238,
+          453
+        ],
+        "hip": 85755
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Serpent Bearer",
+    "native": "Ophiuchus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Oph",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

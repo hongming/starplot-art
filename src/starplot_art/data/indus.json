@@ -1,0 +1,50 @@
+{
+  "id": "CON modern Ind",
+  "lines": [
+    [
+      105319,
+      101772,
+      103227,
+      105319
+    ]
+  ],
+  "image": {
+    "file": "illustrations/indus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          64,
+          143
+        ],
+        "hip": 101772
+      },
+      {
+        "pos": [
+          154,
+          20
+        ],
+        "hip": 103227
+      },
+      {
+        "pos": [
+          175,
+          98
+        ],
+        "hip": 105319
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Indian",
+    "native": "Indus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Ind",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

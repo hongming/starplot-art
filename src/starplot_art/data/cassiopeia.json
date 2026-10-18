@@ -1,0 +1,52 @@
+{
+  "id": "CON modern Cas",
+  "lines": [
+    [
+      8886,
+      6686,
+      4427,
+      3179,
+      746
+    ]
+  ],
+  "image": {
+    "file": "illustrations/cassiopeia.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          390,
+          336
+        ],
+        "hip": 8886
+      },
+      {
+        "pos": [
+          163,
+          156
+        ],
+        "hip": 3179
+      },
+      {
+        "pos": [
+          73,
+          243
+        ],
+        "hip": 746
+      }
+    ]
+  },
+  "common_name": {
+    "native": "Cassiopeia",
+    "english": "Cassiopeia",
+    "byname": "Seated Queen",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cas",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CON modern LMi",
+  "lines": [
+    [
+      53229,
+      51233,
+      49593,
+      46952
+    ],
+    [
+      49593,
+      53229
+    ]
+  ],
+  "image": {
+    "file": "illustrations/leo-minor.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          8,
+          40
+        ],
+        "hip": 53229
+      },
+      {
+        "pos": [
+          214,
+          127
+        ],
+        "hip": 46952
+      },
+      {
+        "pos": [
+          61,
+          155
+        ],
+        "hip": 50303
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lesser Lion",
+    "native": "Leo Minor",
+    "context": "IAU constellation name"
+  },
+  "iau": "LMi",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

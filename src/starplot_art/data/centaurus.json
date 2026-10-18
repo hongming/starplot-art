@@ -1,0 +1,72 @@
+{
+  "id": "CON modern Cen",
+  "lines": [
+    [
+      71683,
+      68702,
+      66657,
+      68002,
+      68282,
+      67472,
+      67464,
+      65936,
+      65109
+    ],
+    [
+      67464,
+      68933
+    ],
+    [
+      67472,
+      71352,
+      73334
+    ],
+    [
+      68002,
+      61932,
+      60823,
+      59196,
+      56480,
+      56561
+    ]
+  ],
+  "image": {
+    "file": "illustrations/centaurus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          118,
+          157
+        ],
+        "hip": 68933
+      },
+      {
+        "pos": [
+          194,
+          444
+        ],
+        "hip": 71683
+      },
+      {
+        "pos": [
+          463,
+          412
+        ],
+        "hip": 56561
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Centaur",
+    "native": "Centaurus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cen",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

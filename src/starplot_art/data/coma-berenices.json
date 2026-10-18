@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Com",
+  "lines": [
+    [
+      64241,
+      64394,
+      60742
+    ]
+  ],
+  "image": {
+    "file": "illustrations/coma-berenices.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          27,
+          199
+        ],
+        "hip": 64241
+      },
+      {
+        "pos": [
+          38,
+          58
+        ],
+        "hip": 64394
+      },
+      {
+        "pos": [
+          172,
+          64
+        ],
+        "hip": 60742
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Bernice's Hair",
+    "native": "Coma Berenices",
+    "context": "IAU constellation name"
+  },
+  "iau": "Com",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

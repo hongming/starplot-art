@@ -1,0 +1,81 @@
+{
+  "id": "CON modern Eri",
+  "lines": [
+    [
+      7588,
+      9007,
+      10602,
+      11407,
+      12413,
+      12486,
+      13847,
+      15510,
+      17797,
+      17874,
+      20042,
+      20535,
+      21393,
+      17651,
+      16611,
+      15474,
+      14146,
+      12843,
+      13701,
+      15197,
+      16537,
+      17378,
+      21444,
+      22109,
+      22701,
+      23875,
+      23972,
+      21594
+    ]
+  ],
+  "label_positions": [
+    [
+      4.1,
+      -15.0
+    ]
+  ],
+  "image": {
+    "file": "illustrations/eridanus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          41,
+          95
+        ],
+        "hip": 22109
+      },
+      {
+        "pos": [
+          296,
+          44
+        ],
+        "hip": 13701
+      },
+      {
+        "pos": [
+          493,
+          490
+        ],
+        "hip": 7588
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Eridanus",
+    "byname": "River",
+    "native": "Eridanus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Eri",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "CON modern Sex",
+  "lines": [
+    [
+      51437,
+      49641
+    ]
+  ],
+  "image": {
+    "file": "illustrations/sextans.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          26,
+          54
+        ],
+        "hip": 51437
+      },
+      {
+        "pos": [
+          68,
+          36
+        ],
+        "hip": 49641
+      },
+      {
+        "pos": [
+          118,
+          84
+        ],
+        "hip": 48437
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Sextant",
+    "native": "Sextans",
+    "context": "IAU constellation name"
+  },
+  "iau": "Sex",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

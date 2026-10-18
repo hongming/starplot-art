@@ -1,0 +1,68 @@
+{
+  "source": "starplot-bigsky v0.1.3, mag9, J2000 degrees",
+  "stars": [
+    {
+      "hip": 109268,
+      "ra": 332.0582,
+      "dec": -46.961,
+      "magnitude": 1.73,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112122,
+      "ra": 340.6668,
+      "dec": -46.8846,
+      "magnitude": 2.07,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 108085,
+      "ra": 328.4822,
+      "dec": -37.3648,
+      "magnitude": 3.0,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 112623,
+      "ra": 342.1387,
+      "dec": -51.3169,
+      "magnitude": 3.49,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 114421,
+      "ra": 347.5897,
+      "dec": -45.2468,
+      "magnitude": 3.88,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 110997,
+      "ra": 337.3174,
+      "dec": -43.4956,
+      "magnitude": 3.97,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 113638,
+      "ra": 345.22,
+      "dec": -52.7541,
+      "magnitude": 4.11,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 114131,
+      "ra": 346.7197,
+      "dec": -43.5203,
+      "magnitude": 4.28,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 109111,
+      "ra": 331.5287,
+      "dec": -39.5434,
+      "magnitude": 4.47,
+      "epoch_year": 2000.0
+    }
+  ]
+}

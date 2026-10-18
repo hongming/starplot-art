@@ -1,0 +1,48 @@
+{
+  "id": "CON modern Vul",
+  "lines": [
+    [
+      95771,
+      98543
+    ]
+  ],
+  "image": {
+    "file": "illustrations/vulpecula.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          35,
+          133
+        ],
+        "hip": 98543
+      },
+      {
+        "pos": [
+          174,
+          111
+        ],
+        "hip": 95771
+      },
+      {
+        "pos": [
+          242,
+          135
+        ],
+        "hip": 94703
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Fox",
+    "native": "Vulpecula",
+    "context": "IAU constellation name"
+  },
+  "iau": "Vul",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

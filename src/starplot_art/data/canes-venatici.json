@@ -1,0 +1,48 @@
+{
+  "id": "CON modern CVn",
+  "lines": [
+    [
+      61317,
+      63125
+    ]
+  ],
+  "image": {
+    "file": "illustrations/canes-venatici.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          117,
+          113
+        ],
+        "hip": 63901
+      },
+      {
+        "pos": [
+          206,
+          40
+        ],
+        "hip": 61317
+      },
+      {
+        "pos": [
+          207,
+          152
+        ],
+        "hip": 61309
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Hunting Dogs",
+    "native": "Canes Venatici",
+    "context": "IAU constellation name"
+  },
+  "iau": "CVn",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

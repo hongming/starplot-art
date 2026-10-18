@@ -1,0 +1,33 @@
+{
+  "source": "starplot-bigsky v0.1.3, mag9, J2000 degrees",
+  "stars": [
+    {
+      "hip": 80000,
+      "ra": 244.9601,
+      "dec": -50.1555,
+      "magnitude": 4.01,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 80582,
+      "ra": 246.796,
+      "dec": -47.5548,
+      "magnitude": 4.46,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 78639,
+      "ra": 240.8038,
+      "dec": -49.2297,
+      "magnitude": 4.65,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 79509,
+      "ra": 243.3697,
+      "dec": -54.6305,
+      "magnitude": 4.95,
+      "epoch_year": 2000.0
+    }
+  ]
+}

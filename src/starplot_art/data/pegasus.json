@@ -1,0 +1,80 @@
+{
+  "id": "CON modern Peg",
+  "lines": [
+    [
+      1067,
+      113963
+    ],
+    [
+      113881,
+      112158,
+      109352
+    ],
+    [
+      113881,
+      112748,
+      112440,
+      109176,
+      107354
+    ],
+    [
+      113963,
+      112447,
+      112029,
+      109427,
+      107315
+    ],
+    [
+      677,
+      113881
+    ],
+    [
+      677,
+      1067
+    ],
+    [
+      113881,
+      113963
+    ]
+  ],
+  "image": {
+    "file": "illustrations/pegasus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          164,
+          41
+        ],
+        "hip": 107315
+      },
+      {
+        "pos": [
+          47,
+          283
+        ],
+        "hip": 109410
+      },
+      {
+        "pos": [
+          409,
+          349
+        ],
+        "hip": 1067
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Pegasus",
+    "byname": "Winged Horse",
+    "native": "Pegasus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Peg",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

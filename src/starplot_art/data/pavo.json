@@ -1,0 +1,69 @@
+{
+  "id": "CON modern Pav",
+  "lines": [
+    [
+      100751,
+      105858,
+      102395,
+      99240,
+      100751
+    ],
+    [
+      99240,
+      98495,
+      91792,
+      93015,
+      99240
+    ],
+    [
+      93015,
+      92609,
+      90098,
+      88866,
+      92609
+    ],
+    [
+      88866,
+      86929
+    ]
+  ],
+  "image": {
+    "file": "illustrations/pavo.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          55,
+          60
+        ],
+        "hip": 100751
+      },
+      {
+        "pos": [
+          110,
+          208
+        ],
+        "hip": 98495
+      },
+      {
+        "pos": [
+          235,
+          146
+        ],
+        "hip": 86929
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Peacock",
+    "native": "Pavo",
+    "context": "IAU constellation name"
+  },
+  "iau": "Pav",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

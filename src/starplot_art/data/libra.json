@@ -1,0 +1,52 @@
+{
+  "id": "CON modern Lib",
+  "lines": [
+    [
+      77853,
+      76333,
+      74785,
+      72622,
+      73714,
+      76333
+    ]
+  ],
+  "image": {
+    "file": "illustrations/libra.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          41,
+          27
+        ],
+        "hip": 74785
+      },
+      {
+        "pos": [
+          58,
+          170
+        ],
+        "hip": 77853
+      },
+      {
+        "pos": [
+          224,
+          107
+        ],
+        "hip": 73714
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Scales",
+    "native": "Libra",
+    "context": "IAU constellation name"
+  },
+  "iau": "Lib",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

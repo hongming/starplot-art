@@ -1,0 +1,92 @@
+{
+  "id": "CON modern Sgr",
+  "lines": [
+    [
+      89931,
+      90496
+    ],
+    [
+      89642,
+      90185,
+      88635,
+      87072
+    ],
+    [
+      88635,
+      89931,
+      90185,
+      93506,
+      92041,
+      89931
+    ],
+    [
+      92041,
+      90496,
+      89341
+    ],
+    [
+      93506,
+      93864,
+      92855,
+      92041
+    ],
+    [
+      92855,
+      93085,
+      93683,
+      94820,
+      95168
+    ],
+    [
+      93864,
+      96406,
+      98688,
+      98412,
+      98032,
+      95347
+    ],
+    [
+      98032,
+      95294
+    ]
+  ],
+  "image": {
+    "file": "illustrations/sagittarius.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          96,
+          82
+        ],
+        "hip": 95168
+      },
+      {
+        "pos": [
+          307,
+          492
+        ],
+        "hip": 95294
+      },
+      {
+        "pos": [
+          506,
+          100
+        ],
+        "hip": 87072
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Archer",
+    "native": "Sagittarius",
+    "context": "IAU constellation name"
+  },
+  "iau": "Sgr",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

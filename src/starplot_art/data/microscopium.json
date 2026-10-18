@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Mic",
+  "lines": [
+    [
+      105140,
+      103738,
+      102831
+    ]
+  ],
+  "image": {
+    "file": "illustrations/microscopium.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          122,
+          226
+        ],
+        "hip": 105140
+      },
+      {
+        "pos": [
+          168,
+          148
+        ],
+        "hip": 103738
+      },
+      {
+        "pos": [
+          234,
+          115
+        ],
+        "hip": 102831
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Microscope",
+    "native": "Microscopium",
+    "context": "IAU constellation name"
+  },
+  "iau": "Mic",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

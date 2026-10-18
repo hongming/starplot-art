@@ -1,0 +1,52 @@
+{
+  "id": "CON modern Cru",
+  "lines": [
+    [
+      61084,
+      60718
+    ],
+    [
+      62434,
+      59747
+    ]
+  ],
+  "image": {
+    "file": "illustrations/crux.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          112,
+          21
+        ],
+        "hip": 61084
+      },
+      {
+        "pos": [
+          42,
+          20
+        ],
+        "hip": 62434
+      },
+      {
+        "pos": [
+          21,
+          106
+        ],
+        "hip": 60718
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Southern Cross",
+    "native": "Crux",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cru",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

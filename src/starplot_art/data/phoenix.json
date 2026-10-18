@@ -1,0 +1,61 @@
+{
+  "id": "CON modern Phe",
+  "lines": [
+    [
+      5348,
+      5165,
+      2072,
+      5348
+    ],
+    [
+      5165,
+      7083,
+      8837,
+      5165,
+      6867,
+      2072,
+      2081,
+      765,
+      2072
+    ]
+  ],
+  "image": {
+    "file": "illustrations/phoenix.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          55,
+          243
+        ],
+        "hip": 8837
+      },
+      {
+        "pos": [
+          209,
+          15
+        ],
+        "hip": 765
+      },
+      {
+        "pos": [
+          229,
+          214
+        ],
+        "hip": 5348
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Phoenix",
+    "native": "Phoenix",
+    "context": "IAU constellation name"
+  },
+  "iau": "Phe",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

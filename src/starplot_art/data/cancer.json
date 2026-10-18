@@ -1,0 +1,58 @@
+{
+  "id": "CON modern Cnc",
+  "lines": [
+    [
+      43103,
+      42806,
+      40843
+    ],
+    [
+      42806,
+      42911,
+      40526
+    ],
+    [
+      42911,
+      44066
+    ]
+  ],
+  "image": {
+    "file": "illustrations/cancer.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          29,
+          166
+        ],
+        "hip": 44066
+      },
+      {
+        "pos": [
+          101,
+          255
+        ],
+        "hip": 40526
+      },
+      {
+        "pos": [
+          206,
+          91
+        ],
+        "hip": 40843
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Crab",
+    "native": "Cancer",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cnc",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

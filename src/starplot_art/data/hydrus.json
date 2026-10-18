@@ -1,0 +1,51 @@
+{
+  "id": "CON modern Hyi",
+  "lines": [
+    [
+      2021,
+      17678,
+      12394,
+      11001,
+      9236
+    ]
+  ],
+  "image": {
+    "file": "illustrations/hydrus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          14,
+          204
+        ],
+        "hip": 9236
+      },
+      {
+        "pos": [
+          201,
+          43
+        ],
+        "hip": 2021
+      },
+      {
+        "pos": [
+          241,
+          215
+        ],
+        "hip": 17678
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lesser Water Snake",
+    "native": "Hydrus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Hyi",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

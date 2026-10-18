@@ -1,0 +1,56 @@
+{
+  "id": "CON modern Col",
+  "lines": [
+    [
+      30277,
+      29807,
+      28199,
+      27628,
+      28328
+    ],
+    [
+      27628,
+      26634,
+      25859
+    ]
+  ],
+  "image": {
+    "file": "illustrations/columba.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          139,
+          29
+        ],
+        "hip": 30277
+      },
+      {
+        "pos": [
+          40,
+          190
+        ],
+        "hip": 28328
+      },
+      {
+        "pos": [
+          204,
+          211
+        ],
+        "hip": 25859
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Dove",
+    "native": "Columba",
+    "context": "IAU constellation name"
+  },
+  "iau": "Col",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Pic",
+  "lines": [
+    [
+      32607,
+      27530,
+      27321
+    ]
+  ],
+  "image": {
+    "file": "illustrations/pictor.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          4,
+          252
+        ],
+        "hip": 32607
+      },
+      {
+        "pos": [
+          148,
+          138
+        ],
+        "hip": 27530
+      },
+      {
+        "pos": [
+          167,
+          38
+        ],
+        "hip": 27321
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Painter's Easel",
+    "native": "Pictor",
+    "context": "IAU constellation name"
+  },
+  "iau": "Pic",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "CON modern Equ",
+  "lines": [
+    [
+      104521,
+      104858,
+      105570,
+      104987,
+      104521
+    ]
+  ],
+  "image": {
+    "file": "illustrations/equuleus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          17,
+          180
+        ],
+        "hip": 104521
+      },
+      {
+        "pos": [
+          149,
+          86
+        ],
+        "hip": 104987
+      },
+      {
+        "pos": [
+          160,
+          160
+        ],
+        "hip": 105570
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Little Horse",
+    "native": "Equuleus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Equ",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

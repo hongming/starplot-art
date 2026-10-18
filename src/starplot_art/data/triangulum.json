@@ -1,0 +1,50 @@
+{
+  "id": "CON modern Tri",
+  "lines": [
+    [
+      10670,
+      10064,
+      8796,
+      10670
+    ]
+  ],
+  "image": {
+    "file": "illustrations/triangulum.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          16,
+          42
+        ],
+        "hip": 10064
+      },
+      {
+        "pos": [
+          13,
+          70
+        ],
+        "hip": 10559
+      },
+      {
+        "pos": [
+          97,
+          78
+        ],
+        "hip": 8796
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Triangle",
+    "native": "Triangulum",
+    "context": "IAU constellation name"
+  },
+  "iau": "Tri",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

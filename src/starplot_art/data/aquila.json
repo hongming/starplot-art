@@ -1,0 +1,67 @@
+{
+  "id": "CON modern Aql",
+  "lines": [
+    [
+      98036,
+      97649,
+      97278
+    ],
+    [
+      97649,
+      95501,
+      97804
+    ],
+    [
+      99473,
+      97804
+    ],
+    [
+      95501,
+      93747,
+      93244
+    ],
+    [
+      95501,
+      93805
+    ]
+  ],
+  "image": {
+    "file": "illustrations/aquila.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          163,
+          232
+        ],
+        "hip": 97649
+      },
+      {
+        "pos": [
+          385,
+          131
+        ],
+        "hip": 93244
+      },
+      {
+        "pos": [
+          397,
+          397
+        ],
+        "hip": 93805
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Eagle",
+    "native": "Aquila",
+    "context": "IAU constellation name"
+  },
+  "iau": "Aql",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

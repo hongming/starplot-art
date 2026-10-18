@@ -1,0 +1,54 @@
+{
+  "id": "CON modern Sge",
+  "lines": [
+    [
+      96837,
+      97365,
+      96757
+    ],
+    [
+      97365,
+      98337,
+      98920
+    ]
+  ],
+  "image": {
+    "file": "illustrations/sagitta.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          6,
+          12
+        ],
+        "hip": 98920
+      },
+      {
+        "pos": [
+          249,
+          213
+        ],
+        "hip": 96757
+      },
+      {
+        "pos": [
+          218,
+          243
+        ],
+        "hip": 96837
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Arrow",
+    "native": "Sagitta",
+    "context": "IAU constellation name"
+  },
+  "iau": "Sge",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

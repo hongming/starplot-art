@@ -1,0 +1,63 @@
+{
+  "id": "CON modern Leo",
+  "lines": [
+    [
+      57632,
+      54879,
+      49669,
+      49583,
+      50583,
+      54872,
+      57632
+    ],
+    [
+      50583,
+      50335,
+      48455,
+      47908
+    ],
+    [
+      54872,
+      54879
+    ]
+  ],
+  "image": {
+    "file": "illustrations/leo.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          69,
+          411
+        ],
+        "hip": 57632
+      },
+      {
+        "pos": [
+          383,
+          186
+        ],
+        "hip": 49669
+      },
+      {
+        "pos": [
+          321,
+          32
+        ],
+        "hip": 47908
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lion",
+    "native": "Leo",
+    "context": "IAU constellation name"
+  },
+  "iau": "Leo",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

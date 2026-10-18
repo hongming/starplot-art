@@ -1,0 +1,61 @@
+{
+  "id": "CON modern Per",
+  "lines": [
+    [
+      17448,
+      18246,
+      18614,
+      18532,
+      17358,
+      15863,
+      14328,
+      13268
+    ],
+    [
+      15863,
+      14576,
+      14354,
+      13254
+    ]
+  ],
+  "image": {
+    "file": "illustrations/perseus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          164,
+          323
+        ],
+        "hip": 18532
+      },
+      {
+        "pos": [
+          299,
+          175
+        ],
+        "hip": 15863
+      },
+      {
+        "pos": [
+          385,
+          386
+        ],
+        "hip": 13254
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Perseus",
+    "byname": "Hero",
+    "native": "Perseus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Per",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

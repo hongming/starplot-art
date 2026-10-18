@@ -1,0 +1,48 @@
+{
+  "id": "CON modern Men",
+  "lines": [
+    [
+      25918,
+      21949
+    ]
+  ],
+  "image": {
+    "file": "illustrations/mensa.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          100,
+          67
+        ],
+        "hip": 21949
+      },
+      {
+        "pos": [
+          179,
+          136
+        ],
+        "hip": 25918
+      },
+      {
+        "pos": [
+          54,
+          183
+        ],
+        "hip": 29134
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Table Mountain",
+    "native": "Mensa",
+    "context": "IAU constellation name"
+  },
+  "iau": "Men",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

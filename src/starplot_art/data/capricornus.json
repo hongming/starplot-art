@@ -1,0 +1,66 @@
+{
+  "id": "CON modern Cap",
+  "lines": [
+    [
+      100064,
+      100345,
+      104139,
+      105515,
+      106985,
+      107556
+    ],
+    [
+      105515,
+      105881,
+      104139
+    ],
+    [
+      100345,
+      102485
+    ],
+    [
+      104139,
+      102978
+    ]
+  ],
+  "image": {
+    "file": "illustrations/capricornus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          15,
+          436
+        ],
+        "hip": 107556
+      },
+      {
+        "pos": [
+          403,
+          7
+        ],
+        "hip": 100064
+      },
+      {
+        "pos": [
+          460,
+          438
+        ],
+        "hip": 102978
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Capricornus",
+    "byname": "Sea Goat",
+    "native": "Capricornus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cap",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "CON modern UMi",
+  "lines": [
+    [
+      11767,
+      85822,
+      82080,
+      77055,
+      79822,
+      75097,
+      72607,
+      77055
+    ]
+  ],
+  "image": {
+    "file": "illustrations/ursa-minor.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          15,
+          20
+        ],
+        "hip": 11767
+      },
+      {
+        "pos": [
+          193,
+          51
+        ],
+        "hip": 59504
+      },
+      {
+        "pos": [
+          93,
+          209
+        ],
+        "hip": 79822
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lesser Bear",
+    "native": "Ursa Minor",
+    "context": "IAU constellation name"
+  },
+  "iau": "UMi",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

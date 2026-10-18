@@ -1,0 +1,55 @@
+{
+  "id": "CON modern Nor",
+  "lines": [
+    [
+      79509,
+      80000,
+      80582,
+      78639,
+      80000
+    ],
+    [
+      78639,
+      79509
+    ]
+  ],
+  "image": {
+    "file": "illustrations/norma.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          17,
+          45
+        ],
+        "hip": 78639
+      },
+      {
+        "pos": [
+          101,
+          38
+        ],
+        "hip": 79509
+      },
+      {
+        "pos": [
+          16,
+          112
+        ],
+        "hip": 80582
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Carpenter's Square",
+    "native": "Norma",
+    "context": "IAU constellation name"
+  },
+  "iau": "Nor",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

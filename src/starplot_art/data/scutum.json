@@ -1,0 +1,52 @@
+{
+  "id": "CON modern Sct",
+  "lines": [
+    [
+      92175,
+      92202,
+      92814,
+      90595,
+      91117,
+      92175
+    ]
+  ],
+  "image": {
+    "file": "illustrations/scutum.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          52,
+          17
+        ],
+        "hip": 92175
+      },
+      {
+        "pos": [
+          224,
+          124
+        ],
+        "hip": 90595
+      },
+      {
+        "pos": [
+          139,
+          206
+        ],
+        "hip": 92814
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Shield",
+    "native": "Scutum",
+    "context": "IAU constellation name"
+  },
+  "iau": "Sct",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

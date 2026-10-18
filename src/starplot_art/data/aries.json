@@ -1,0 +1,50 @@
+{
+  "id": "CON modern Ari",
+  "lines": [
+    [
+      13209,
+      9884,
+      8903,
+      8832
+    ]
+  ],
+  "image": {
+    "file": "illustrations/aries.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          12,
+          130
+        ],
+        "hip": 13209
+      },
+      {
+        "pos": [
+          58,
+          206
+        ],
+        "hip": 13914
+      },
+      {
+        "pos": [
+          210,
+          47
+        ],
+        "hip": 8832
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Ram",
+    "native": "Aries",
+    "context": "IAU constellation name"
+  },
+  "iau": "Ari",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

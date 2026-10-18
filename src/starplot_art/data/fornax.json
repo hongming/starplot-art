@@ -1,0 +1,48 @@
+{
+  "id": "CON modern For",
+  "lines": [
+    [
+      13147,
+      14879
+    ]
+  ],
+  "image": {
+    "file": "illustrations/fornax.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          42,
+          125
+        ],
+        "hip": 14879
+      },
+      {
+        "pos": [
+          128,
+          37
+        ],
+        "hip": 13202
+      },
+      {
+        "pos": [
+          190,
+          129
+        ],
+        "hip": 13147
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Furnace",
+    "native": "Fornax",
+    "context": "IAU constellation name"
+  },
+  "iau": "For",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

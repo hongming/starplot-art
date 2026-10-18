@@ -1,0 +1,50 @@
+{
+  "id": "CON modern Oct",
+  "lines": [
+    [
+      107089,
+      112405,
+      70638,
+      107089
+    ]
+  ],
+  "image": {
+    "file": "illustrations/octans.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          15,
+          16
+        ],
+        "hip": 70638
+      },
+      {
+        "pos": [
+          236,
+          239
+        ],
+        "hip": 107089
+      },
+      {
+        "pos": [
+          247,
+          140
+        ],
+        "hip": 112405
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Octant",
+    "native": "Octans",
+    "context": "IAU constellation name"
+  },
+  "iau": "Oct",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

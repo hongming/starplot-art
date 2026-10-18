@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Pyx",
+  "lines": [
+    [
+      42515,
+      42828,
+      43409
+    ]
+  ],
+  "image": {
+    "file": "illustrations/pyxis.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          152,
+          220
+        ],
+        "hip": 41723
+      },
+      {
+        "pos": [
+          94,
+          159
+        ],
+        "hip": 42828
+      },
+      {
+        "pos": [
+          44,
+          202
+        ],
+        "hip": 42515
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Mariner Compass",
+    "native": "Pyxis",
+    "context": "IAU constellation name"
+  },
+  "iau": "Pyx",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

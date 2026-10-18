@@ -1,0 +1,68 @@
+{
+  "id": "CON modern Vir",
+  "lines": [
+    [
+      57380,
+      60129,
+      61941,
+      65474,
+      69427,
+      69701,
+      71957
+    ],
+    [
+      65474,
+      66249,
+      68520,
+      72220
+    ],
+    [
+      66249,
+      63090,
+      63608
+    ],
+    [
+      63090,
+      61941
+    ]
+  ],
+  "image": {
+    "file": "illustrations/virgo.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          65,
+          389
+        ],
+        "hip": 72220
+      },
+      {
+        "pos": [
+          454,
+          57
+        ],
+        "hip": 57380
+      },
+      {
+        "pos": [
+          338,
+          382
+        ],
+        "hip": 65474
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Maiden",
+    "native": "Virgo",
+    "context": "IAU constellation name"
+  },
+  "iau": "Vir",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

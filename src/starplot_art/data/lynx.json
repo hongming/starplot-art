@@ -1,0 +1,54 @@
+{
+  "id": "CON modern Lyn",
+  "lines": [
+    [
+      45860,
+      45688,
+      44700,
+      44248,
+      41075,
+      36145,
+      33449,
+      30060
+    ]
+  ],
+  "image": {
+    "file": "illustrations/lynx.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          100,
+          216
+        ],
+        "hip": 44248
+      },
+      {
+        "pos": [
+          337,
+          212
+        ],
+        "hip": 36145
+      },
+      {
+        "pos": [
+          472,
+          119
+        ],
+        "hip": 30060
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lynx",
+    "native": "Lynx",
+    "context": "IAU constellation name"
+  },
+  "iau": "Lyn",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

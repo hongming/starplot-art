@@ -1,0 +1,57 @@
+{
+  "id": "CON modern Boo",
+  "lines": [
+    [
+      71795,
+      69673,
+      72105,
+      74666,
+      73555,
+      71075,
+      71053,
+      69673,
+      67927,
+      67459
+    ]
+  ],
+  "image": {
+    "file": "illustrations/bootes.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          225,
+          222
+        ],
+        "hip": 72105
+      },
+      {
+        "pos": [
+          365,
+          184
+        ],
+        "hip": 71075
+      },
+      {
+        "pos": [
+          207,
+          401
+        ],
+        "hip": 67927
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Bo\u00f6tes",
+    "byname": "Herdsman",
+    "native": "Bo\u00f6tes",
+    "context": "IAU constellation name"
+  },
+  "iau": "Boo",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

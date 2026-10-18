@@ -1,0 +1,51 @@
+{
+  "id": "CON modern Ret",
+  "lines": [
+    [
+      19780,
+      19921,
+      18597,
+      17440,
+      19780
+    ]
+  ],
+  "image": {
+    "file": "illustrations/reticulum.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          47,
+          56
+        ],
+        "hip": 18597
+      },
+      {
+        "pos": [
+          78,
+          88
+        ],
+        "hip": 19780
+      },
+      {
+        "pos": [
+          16,
+          111
+        ],
+        "hip": 19921
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Reticle",
+    "native": "Reticulum",
+    "context": "IAU constellation name"
+  },
+  "iau": "Ret",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

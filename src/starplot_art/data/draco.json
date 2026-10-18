@@ -1,0 +1,62 @@
+{
+  "id": "CON modern Dra",
+  "lines": [
+    [
+      87585,
+      87833,
+      85670,
+      85829,
+      87585,
+      94376,
+      97433,
+      94648,
+      89937,
+      83895,
+      80331,
+      78527,
+      75458,
+      68756,
+      61281,
+      56211
+    ]
+  ],
+  "image": {
+    "file": "illustrations/draco.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          13,
+          411
+        ],
+        "hip": 56211
+      },
+      {
+        "pos": [
+          361,
+          154
+        ],
+        "hip": 85670
+      },
+      {
+        "pos": [
+          449,
+          429
+        ],
+        "hip": 97433
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Dragon",
+    "native": "Draco",
+    "context": "IAU constellation name"
+  },
+  "iau": "Dra",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

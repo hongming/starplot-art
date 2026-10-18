@@ -1,0 +1,62 @@
+{
+  "id": "CON modern Cyg",
+  "lines": [
+    [
+      94779,
+      95853,
+      97165,
+      100453,
+      102098
+    ],
+    [
+      100453,
+      102488,
+      104732,
+      107310
+    ],
+    [
+      100453,
+      98110,
+      95947
+    ]
+  ],
+  "image": {
+    "file": "illustrations/cygnus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          7,
+          382
+        ],
+        "hip": 107310
+      },
+      {
+        "pos": [
+          474,
+          46
+        ],
+        "hip": 94779
+      },
+      {
+        "pos": [
+          467,
+          453
+        ],
+        "hip": 95947
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Swan",
+    "native": "Cygnus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cyg",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

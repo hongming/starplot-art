@@ -1,0 +1,85 @@
+{
+  "id": "CON modern Hya",
+  "lines": [
+    [
+      42799,
+      42402,
+      42313,
+      43109,
+      43234,
+      42799
+    ],
+    [
+      43234,
+      43813,
+      45336,
+      46776,
+      46509,
+      46390,
+      45751,
+      47452,
+      48356,
+      49841,
+      51069,
+      52943,
+      54204,
+      56343,
+      57936,
+      64166,
+      64962,
+      68895,
+      69415,
+      70306,
+      72571
+    ]
+  ],
+  "label_positions": [
+    [
+      9.1,
+      -10.0
+    ],
+    [
+      13.75,
+      -26.0
+    ]
+  ],
+  "image": {
+    "file": "illustrations/hydra.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          26,
+          491
+        ],
+        "hip": 64962
+      },
+      {
+        "pos": [
+          111,
+          149
+        ],
+        "hip": 55434
+      },
+      {
+        "pos": [
+          401,
+          33
+        ],
+        "hip": 43813
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Water Snake",
+    "native": "Hydra",
+    "context": "IAU constellation name"
+  },
+  "iau": "Hya",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

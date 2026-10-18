@@ -1,0 +1,77 @@
+{
+  "id": "CON modern Tau",
+  "lines": [
+    [
+      25428,
+      21881,
+      20889
+    ],
+    [
+      21421,
+      26451
+    ],
+    [
+      20205,
+      20455
+    ],
+    [
+      20205,
+      18724,
+      15900
+    ],
+    [
+      21421,
+      20889
+    ],
+    [
+      21421,
+      20894,
+      20205
+    ],
+    [
+      20889,
+      20648,
+      20455,
+      17847
+    ]
+  ],
+  "image": {
+    "file": "illustrations/taurus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          13,
+          92
+        ],
+        "hip": 26451
+      },
+      {
+        "pos": [
+          399,
+          438
+        ],
+        "hip": 15900
+      },
+      {
+        "pos": [
+          382,
+          192
+        ],
+        "hip": 17999
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Bull",
+    "native": "Taurus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Tau",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

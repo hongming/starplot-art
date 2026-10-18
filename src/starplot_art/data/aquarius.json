@@ -1,0 +1,70 @@
+{
+  "id": "CON modern Aqr",
+  "lines": [
+    [
+      106278,
+      109074,
+      110395,
+      110960,
+      111497,
+      112961,
+      114855,
+      115438
+    ],
+    [
+      109074,
+      110003,
+      109139
+    ],
+    [
+      110003,
+      111123,
+      112716,
+      113136,
+      114341
+    ],
+    [
+      102618,
+      106278
+    ]
+  ],
+  "image": {
+    "file": "illustrations/aquarius.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          144,
+          464
+        ],
+        "hip": 115438
+      },
+      {
+        "pos": [
+          179,
+          98
+        ],
+        "hip": 109074
+      },
+      {
+        "pos": [
+          465,
+          49
+        ],
+        "hip": 102618
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Water Bearer",
+    "native": "Aquarius",
+    "context": "IAU constellation name"
+  },
+  "iau": "Aqr",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

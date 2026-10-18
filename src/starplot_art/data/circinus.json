@@ -1,0 +1,52 @@
+{
+  "id": "CON modern Cir",
+  "lines": [
+    [
+      71908,
+      75323
+    ],
+    [
+      71908,
+      74824
+    ]
+  ],
+  "image": {
+    "file": "illustrations/circinus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          5,
+          36
+        ],
+        "hip": 75323
+      },
+      {
+        "pos": [
+          39,
+          11
+        ],
+        "hip": 74824
+      },
+      {
+        "pos": [
+          235,
+          239
+        ],
+        "hip": 71908
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Drawing Compass",
+    "native": "Circinus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cir",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

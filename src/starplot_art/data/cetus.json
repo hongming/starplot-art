@@ -1,0 +1,80 @@
+{
+  "id": "CON modern Cet",
+  "lines": [
+    [
+      10324,
+      11484
+    ],
+    [
+      8102,
+      3419,
+      1562
+    ],
+    [
+      3419,
+      5364,
+      6537,
+      8645,
+      11345,
+      12390,
+      12770,
+      11783,
+      8102
+    ],
+    [
+      10826,
+      12390
+    ],
+    [
+      10826,
+      12387,
+      12706,
+      14135,
+      13954,
+      12828,
+      11484,
+      12093,
+      12706
+    ]
+  ],
+  "image": {
+    "file": "illustrations/cetus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          87,
+          63
+        ],
+        "hip": 14143
+      },
+      {
+        "pos": [
+          28,
+          274
+        ],
+        "hip": 12770
+      },
+      {
+        "pos": [
+          412,
+          440
+        ],
+        "hip": 1562
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Whale",
+    "byname": "Sea Monster",
+    "native": "Cetus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cet",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

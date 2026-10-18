@@ -1,0 +1,70 @@
+{
+  "id": "CON modern Mon",
+  "lines": [
+    [
+      29651,
+      34769
+    ],
+    [
+      30867,
+      34769,
+      32533,
+      30419,
+      31216,
+      31978
+    ],
+    [
+      32533,
+      31978,
+      30665
+    ],
+    [
+      34769,
+      39211,
+      39863
+    ],
+    [
+      39211,
+      37447
+    ]
+  ],
+  "image": {
+    "file": "illustrations/monoceros.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          20,
+          306
+        ],
+        "hip": 39863
+      },
+      {
+        "pos": [
+          394,
+          80
+        ],
+        "hip": 31978
+      },
+      {
+        "pos": [
+          509,
+          359
+        ],
+        "hip": 29651
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Unicorn",
+    "native": "Monoceros",
+    "context": "IAU constellation name"
+  },
+  "iau": "Mon",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

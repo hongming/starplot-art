@@ -1,0 +1,48 @@
+{
+  "id": "CON modern CMi",
+  "lines": [
+    [
+      37279,
+      36188
+    ]
+  ],
+  "image": {
+    "file": "illustrations/canis-minor.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          96,
+          43
+        ],
+        "hip": 37921
+      },
+      {
+        "pos": [
+          101,
+          171
+        ],
+        "hip": 37279
+      },
+      {
+        "pos": [
+          184,
+          124
+        ],
+        "hip": 36188
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lesser Dog",
+    "native": "Canis Minor",
+    "context": "IAU constellation name"
+  },
+  "iau": "CMi",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

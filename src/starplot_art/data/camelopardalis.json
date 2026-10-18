@@ -1,0 +1,58 @@
+{
+  "id": "CON modern Cam",
+  "lines": [
+    [
+      16228,
+      18505,
+      22783
+    ],
+    [
+      16228,
+      17959,
+      22783
+    ],
+    [
+      17959,
+      25110
+    ]
+  ],
+  "image": {
+    "file": "illustrations/camelopardalis.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          77,
+          46
+        ],
+        "hip": 25110
+      },
+      {
+        "pos": [
+          128,
+          135
+        ],
+        "hip": 22783
+      },
+      {
+        "pos": [
+          219,
+          136
+        ],
+        "hip": 16228
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Giraffe",
+    "native": "Camelopardalis",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cam",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

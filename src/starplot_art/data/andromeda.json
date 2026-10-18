@@ -1,0 +1,56 @@
+{
+  "id": "CON modern And",
+  "lines": [
+    [
+      677,
+      3092,
+      5447
+    ],
+    [
+      9640,
+      5447,
+      4436,
+      3881
+    ]
+  ],
+  "image": {
+    "file": "illustrations/andromeda.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          198,
+          215
+        ],
+        "hip": 3881
+      },
+      {
+        "pos": [
+          337,
+          136
+        ],
+        "hip": 3092
+      },
+      {
+        "pos": [
+          224,
+          428
+        ],
+        "hip": 9640
+      }
+    ]
+  },
+  "common_name": {
+    "native": "Andromeda",
+    "english": "Andromeda",
+    "byname": "Chained Maiden",
+    "context": "IAU constellation name"
+  },
+  "iau": "And",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

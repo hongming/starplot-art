@@ -1,0 +1,60 @@
+{
+  "id": "CON modern Vol",
+  "lines": [
+    [
+      37504,
+      34481,
+      39794,
+      37504
+    ],
+    [
+      39794,
+      35228
+    ],
+    [
+      39794,
+      41312,
+      44382,
+      39794
+    ]
+  ],
+  "image": {
+    "file": "illustrations/volans.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          55,
+          85
+        ],
+        "hip": 44382
+      },
+      {
+        "pos": [
+          210,
+          122
+        ],
+        "hip": 35228
+      },
+      {
+        "pos": [
+          207,
+          163
+        ],
+        "hip": 34481
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Flying Fish",
+    "native": "Volans",
+    "context": "IAU constellation name"
+  },
+  "iau": "Vol",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

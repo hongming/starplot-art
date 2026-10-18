@@ -1,0 +1,50 @@
+{
+  "id": "CON modern TrA",
+  "lines": [
+    [
+      82273,
+      74946,
+      77952,
+      82273
+    ]
+  ],
+  "image": {
+    "file": "illustrations/triangulum-australe.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          26,
+          12
+        ],
+        "hip": 77952
+      },
+      {
+        "pos": [
+          108,
+          15
+        ],
+        "hip": 74946
+      },
+      {
+        "pos": [
+          60,
+          106
+        ],
+        "hip": 82273
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Southern Triangle",
+    "native": "Triangulum Australe",
+    "context": "IAU constellation name"
+  },
+  "iau": "Tra",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

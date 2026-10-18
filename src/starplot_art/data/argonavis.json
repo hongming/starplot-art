@@ -1,0 +1,76 @@
+{
+  "id": "CON modern Car",
+  "lines": [
+    [
+      45238,
+      50099,
+      52419,
+      52468,
+      54463,
+      53253,
+      51232,
+      50371,
+      45556
+    ],
+    [
+      42568,
+      41037,
+      30438
+    ],
+    [
+      45080,
+      45556
+    ],
+    [
+      45080,
+      42568
+    ],
+    [
+      30438,
+      31685
+    ],
+    [
+      41037,
+      39429
+    ]
+  ],
+  "image": {
+    "file": "illustrations/argonavis.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          202,
+          455
+        ],
+        "hip": 45238
+      },
+      {
+        "pos": [
+          62,
+          216
+        ],
+        "hip": 50191
+      },
+      {
+        "pos": [
+          298,
+          22
+        ],
+        "hip": 39757
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Keel",
+    "native": "Carina",
+    "context": "IAU constellation name"
+  },
+  "iau": "Car",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "CON modern Lup",
+  "lines": [
+    [
+      77634,
+      78970,
+      78384,
+      77634
+    ],
+    [
+      78384,
+      76297,
+      75141,
+      75177
+    ],
+    [
+      75141,
+      73273
+    ],
+    [
+      76297,
+      76552,
+      74395,
+      71860
+    ],
+    [
+      74395,
+      71536
+    ],
+    [
+      71860,
+      70576
+    ],
+    [
+      71860,
+      73273
+    ]
+  ],
+  "image": {
+    "file": "illustrations/lupus.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          90,
+          257
+        ],
+        "hip": 74395
+      },
+      {
+        "pos": [
+          207,
+          435
+        ],
+        "hip": 70576
+      },
+      {
+        "pos": [
+          425,
+          239
+        ],
+        "hip": 75177
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Wolf",
+    "native": "Lupus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Lup",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

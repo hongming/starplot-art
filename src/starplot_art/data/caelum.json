@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Cae",
+  "lines": [
+    [
+      21060,
+      21770,
+      21861
+    ]
+  ],
+  "image": {
+    "file": "illustrations/caelum.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          16,
+          231
+        ],
+        "hip": 21060
+      },
+      {
+        "pos": [
+          76,
+          145
+        ],
+        "hip": 21770
+      },
+      {
+        "pos": [
+          199,
+          75
+        ],
+        "hip": 21861
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Engraving Tool",
+    "native": "Caelum",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cae",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

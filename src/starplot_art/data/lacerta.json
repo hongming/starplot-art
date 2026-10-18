@@ -1,0 +1,53 @@
+{
+  "id": "CON modern Lac",
+  "lines": [
+    [
+      109937,
+      111104,
+      111022,
+      110609,
+      110538,
+      111169,
+      111022
+    ]
+  ],
+  "image": {
+    "file": "illustrations/lacerta.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          249,
+          42
+        ],
+        "hip": 110538
+      },
+      {
+        "pos": [
+          108,
+          123
+        ],
+        "hip": 111104
+      },
+      {
+        "pos": [
+          67,
+          215
+        ],
+        "hip": 109937
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lizard",
+    "native": "Lacerta",
+    "context": "IAU constellation name"
+  },
+  "iau": "Lac",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

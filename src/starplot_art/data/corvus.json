@@ -1,0 +1,56 @@
+{
+  "id": "CON modern Crv",
+  "lines": [
+    [
+      61174,
+      60965,
+      59803,
+      59316,
+      59199
+    ],
+    [
+      59316,
+      61359,
+      60965
+    ]
+  ],
+  "image": {
+    "file": "illustrations/corvus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          65,
+          59
+        ],
+        "hip": 60965
+      },
+      {
+        "pos": [
+          77,
+          235
+        ],
+        "hip": 61359
+      },
+      {
+        "pos": [
+          213,
+          187
+        ],
+        "hip": 59316
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Crow",
+    "native": "Corvus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Crv",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

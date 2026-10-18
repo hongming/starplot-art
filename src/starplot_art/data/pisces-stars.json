@@ -1,0 +1,145 @@
+{
+  "source": "starplot-bigsky v0.1.3, mag9, J2000 degrees",
+  "stars": [
+    {
+      "hip": 7097,
+      "ra": 22.8709,
+      "dec": 15.3458,
+      "magnitude": 3.62,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 114971,
+      "ra": 349.2915,
+      "dec": 3.2822,
+      "magnitude": 3.7,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 9487,
+      "ra": 30.5118,
+      "dec": 2.7638,
+      "magnitude": 3.82,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 118268,
+      "ra": 359.8278,
+      "dec": 6.8633,
+      "magnitude": 4.03,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 116771,
+      "ra": 354.9876,
+      "dec": 5.6263,
+      "magnitude": 4.13,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 8198,
+      "ra": 26.3485,
+      "dec": 9.1577,
+      "magnitude": 4.26,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 4906,
+      "ra": 15.7359,
+      "dec": 7.8902,
+      "magnitude": 4.27,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 115830,
+      "ra": 351.9921,
+      "dec": 6.379,
+      "magnitude": 4.27,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 7884,
+      "ra": 25.3578,
+      "dec": 5.4876,
+      "magnitude": 4.45,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 116928,
+      "ra": 355.5117,
+      "dec": 1.78,
+      "magnitude": 4.49,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 8833,
+      "ra": 28.3889,
+      "dec": 3.1875,
+      "magnitude": 4.61,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 5742,
+      "ra": 18.4372,
+      "dec": 24.5837,
+      "magnitude": 4.67,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 6193,
+      "ra": 19.8667,
+      "dec": 27.2641,
+      "magnitude": 4.74,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 7007,
+      "ra": 22.5463,
+      "dec": 6.1438,
+      "magnitude": 4.84,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 115738,
+      "ra": 351.7332,
+      "dec": 1.2556,
+      "magnitude": 4.95,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 117245,
+      "ra": 356.598,
+      "dec": 3.4868,
+      "magnitude": 4.95,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 115227,
+      "ra": 350.0858,
+      "dec": 5.3813,
+      "magnitude": 5.05,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 1645,
+      "ra": 5.1494,
+      "dec": 8.1903,
+      "magnitude": 5.38,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 4889,
+      "ra": 15.7045,
+      "dec": 31.8042,
+      "magnitude": 5.5,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 3760,
+      "ra": 12.0726,
+      "dec": 7.2999,
+      "magnitude": 5.92,
+      "epoch_year": 2000.0
+    }
+  ]
+}

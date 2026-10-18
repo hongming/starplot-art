@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Aps",
+  "lines": [
+    [
+      72370,
+      81065,
+      81852
+    ]
+  ],
+  "image": {
+    "file": "illustrations/apus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          66,
+          60
+        ],
+        "hip": 81852
+      },
+      {
+        "pos": [
+          76,
+          87
+        ],
+        "hip": 81065
+      },
+      {
+        "pos": [
+          163,
+          110
+        ],
+        "hip": 72370
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Bird of Paradise",
+    "native": "Apus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Aps",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

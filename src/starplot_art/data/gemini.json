@@ -1,0 +1,81 @@
+{
+  "id": "CON modern Gem",
+  "lines": [
+    [
+      31681,
+      34088,
+      35550,
+      35350,
+      32362
+    ],
+    [
+      35550,
+      36962,
+      37740
+    ],
+    [
+      36962,
+      37826
+    ],
+    [
+      36962,
+      36046,
+      34693,
+      36850
+    ],
+    [
+      34693,
+      33018
+    ],
+    [
+      34693,
+      32246,
+      30883
+    ],
+    [
+      32246,
+      30343,
+      29655,
+      28734
+    ]
+  ],
+  "image": {
+    "file": "illustrations/gemini.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          14,
+          81
+        ],
+        "hip": 37740
+      },
+      {
+        "pos": [
+          117,
+          252
+        ],
+        "hip": 32362
+      },
+      {
+        "pos": [
+          249,
+          165
+        ],
+        "hip": 28734
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Twins",
+    "native": "Gemini",
+    "context": "IAU constellation name"
+  },
+  "iau": "Gem",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "CON modern Ori",
+  "lines": [
+    [
+      26727,
+      26311,
+      25930
+    ],
+    [
+      29434,
+      29426
+    ],
+    [
+      29434,
+      28716,
+      27913
+    ],
+    [
+      29426,
+      29038,
+      27913
+    ],
+    [
+      29426,
+      28614,
+      27989,
+      26727,
+      27366,
+      24436,
+      25930,
+      25336,
+      26207,
+      27989
+    ],
+    [
+      25336,
+      22449,
+      22549,
+      22730,
+      22797,
+      23123
+    ],
+    [
+      22449,
+      22509,
+      22845
+    ],
+    [
+      29038,
+      28614
+    ]
+  ],
+  "image": {
+    "file": "illustrations/orion.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          59,
+          11
+        ],
+        "hip": 27913
+      },
+      {
+        "pos": [
+          329,
+          477
+        ],
+        "hip": 27366
+      },
+      {
+        "pos": [
+          421,
+          91
+        ],
+        "hip": 22449
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Orion",
+    "byname": "Hunter",
+    "native": "Orion",
+    "context": "IAU constellation name"
+  },
+  "iau": "Ori",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

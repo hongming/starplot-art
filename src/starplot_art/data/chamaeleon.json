@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Cha",
+  "lines": [
+    [
+      40702,
+      51839,
+      60000
+    ]
+  ],
+  "image": {
+    "file": "illustrations/chamaeleon.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          29,
+          214
+        ],
+        "hip": 60000
+      },
+      {
+        "pos": [
+          73,
+          123
+        ],
+        "hip": 51839
+      },
+      {
+        "pos": [
+          184,
+          33
+        ],
+        "hip": 40702
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Chameleon",
+    "native": "Chamaeleon",
+    "context": "IAU constellation name"
+  },
+  "iau": "Cha",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

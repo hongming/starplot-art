@@ -1,0 +1,54 @@
+{
+  "id": "CON modern Ara",
+  "lines": [
+    [
+      88714,
+      85792,
+      83081,
+      82363,
+      85727,
+      85267,
+      85258,
+      88714
+    ]
+  ],
+  "image": {
+    "file": "illustrations/ara.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          98,
+          70
+        ],
+        "hip": 83081
+      },
+      {
+        "pos": [
+          191,
+          93
+        ],
+        "hip": 85727
+      },
+      {
+        "pos": [
+          107,
+          249
+        ],
+        "hip": 88714
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Altar",
+    "native": "Ara",
+    "context": "IAU constellation name"
+  },
+  "iau": "Ara",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

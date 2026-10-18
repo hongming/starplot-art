@@ -1,0 +1,56 @@
+{
+  "id": "CON modern Dor",
+  "lines": [
+    [
+      27100,
+      27890,
+      26069,
+      27100
+    ],
+    [
+      26069,
+      21281,
+      19893
+    ]
+  ],
+  "image": {
+    "file": "illustrations/dorado.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          56,
+          197
+        ],
+        "hip": 27890
+      },
+      {
+        "pos": [
+          75,
+          228
+        ],
+        "hip": 27100
+      },
+      {
+        "pos": [
+          219,
+          46
+        ],
+        "hip": 19893
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Swordfish",
+    "byname": "Dolphinfish",
+    "native": "Dorado",
+    "context": "IAU constellation name"
+  },
+  "iau": "Dor",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

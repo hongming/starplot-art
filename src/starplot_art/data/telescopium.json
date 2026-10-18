@@ -1,0 +1,48 @@
+{
+  "id": "CON modern Tel",
+  "lines": [
+    [
+      90568,
+      90422
+    ]
+  ],
+  "image": {
+    "file": "illustrations/telescopium.png",
+    "size": [
+      128,
+      128
+    ],
+    "anchors": [
+      {
+        "pos": [
+          30,
+          66
+        ],
+        "hip": 91589
+      },
+      {
+        "pos": [
+          101,
+          40
+        ],
+        "hip": 90422
+      },
+      {
+        "pos": [
+          106,
+          92
+        ],
+        "hip": 90568
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Telescope",
+    "native": "Telescopium",
+    "context": "IAU constellation name"
+  },
+  "iau": "Tel",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

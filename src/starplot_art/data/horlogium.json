@@ -1,0 +1,49 @@
+{
+  "id": "CON modern Hor",
+  "lines": [
+    [
+      19747,
+      12484,
+      14240
+    ]
+  ],
+  "image": {
+    "file": "illustrations/horlogium.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          16,
+          235
+        ],
+        "hip": 19747
+      },
+      {
+        "pos": [
+          184,
+          67
+        ],
+        "hip": 12484
+      },
+      {
+        "pos": [
+          235,
+          119
+        ],
+        "hip": 14240
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Clock",
+    "native": "Horologium",
+    "context": "IAU constellation name"
+  },
+  "iau": "Hor",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

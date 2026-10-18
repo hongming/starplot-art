@@ -1,0 +1,81 @@
+{
+  "id": "CON modern UMa",
+  "lines": [
+    [
+      67301,
+      65378,
+      62956,
+      59774,
+      54061,
+      53910,
+      58001,
+      59774
+    ],
+    [
+      58001,
+      57399,
+      54539,
+      50372
+    ],
+    [
+      54539,
+      50801
+    ],
+    [
+      53910,
+      48402,
+      46853,
+      44471
+    ],
+    [
+      46853,
+      44127
+    ],
+    [
+      48402,
+      48319,
+      41704,
+      46733,
+      54061
+    ]
+  ],
+  "image": {
+    "file": "illustrations/ursa-major.png",
+    "size": [
+      512,
+      512
+    ],
+    "anchors": [
+      {
+        "pos": [
+          26,
+          75
+        ],
+        "hip": 67301
+      },
+      {
+        "pos": [
+          452,
+          272
+        ],
+        "hip": 41704
+      },
+      {
+        "pos": [
+          258,
+          394
+        ],
+        "hip": 50372
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Great Bear",
+    "native": "Ursa Major",
+    "context": "IAU constellation name"
+  },
+  "iau": "UMa",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

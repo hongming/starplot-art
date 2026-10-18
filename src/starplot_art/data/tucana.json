@@ -1,0 +1,53 @@
+{
+  "id": "CON modern Tuc",
+  "lines": [
+    [
+      110130,
+      114996,
+      1599
+    ],
+    [
+      114996,
+      2484
+    ]
+  ],
+  "image": {
+    "file": "illustrations/tucana.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          53,
+          121
+        ],
+        "hip": 2484
+      },
+      {
+        "pos": [
+          154,
+          86
+        ],
+        "hip": 114996
+      },
+      {
+        "pos": [
+          224,
+          141
+        ],
+        "hip": 110130
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Toucan",
+    "native": "Tucana",
+    "context": "IAU constellation name"
+  },
+  "iau": "Tuc",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

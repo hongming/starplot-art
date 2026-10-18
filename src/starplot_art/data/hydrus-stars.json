@@ -1,0 +1,40 @@
+{
+  "source": "starplot-bigsky v0.1.3, mag9, J2000 degrees",
+  "stars": [
+    {
+      "hip": 2021,
+      "ra": 6.4377,
+      "dec": -77.2543,
+      "magnitude": 2.82,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 9236,
+      "ra": 29.6925,
+      "dec": -61.5698,
+      "magnitude": 2.86,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 17678,
+      "ra": 56.8097,
+      "dec": -74.2389,
+      "magnitude": 3.26,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 11001,
+      "ra": 35.4373,
+      "dec": -68.6594,
+      "magnitude": 4.08,
+      "epoch_year": 2000.0
+    },
+    {
+      "hip": 12394,
+      "ra": 39.8973,
+      "dec": -68.2669,
+      "magnitude": 4.12,
+      "epoch_year": 2000.0
+    }
+  ]
+}

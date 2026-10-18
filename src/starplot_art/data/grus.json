@@ -1,0 +1,65 @@
+{
+  "id": "CON modern Gru",
+  "lines": [
+    [
+      114131,
+      110997,
+      109268,
+      112122,
+      114421,
+      114131
+    ],
+    [
+      112122,
+      113638
+    ],
+    [
+      112122,
+      112623
+    ],
+    [
+      109268,
+      109111,
+      108085
+    ]
+  ],
+  "image": {
+    "file": "illustrations/grus.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          49,
+          109
+        ],
+        "hip": 114131
+      },
+      {
+        "pos": [
+          85,
+          206
+        ],
+        "hip": 112623
+      },
+      {
+        "pos": [
+          220,
+          45
+        ],
+        "hip": 108085
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Crane",
+    "native": "Grus",
+    "context": "IAU constellation name"
+  },
+  "iau": "Gru",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

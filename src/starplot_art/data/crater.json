@@ -1,0 +1,59 @@
+{
+  "id": "CON modern Crt",
+  "lines": [
+    [
+      53740,
+      54682,
+      55705,
+      55282,
+      53740
+    ],
+    [
+      55282,
+      55687,
+      56633,
+      58188,
+      57283,
+      55705
+    ]
+  ],
+  "image": {
+    "file": "illustrations/crater.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          45,
+          41
+        ],
+        "hip": 58188
+      },
+      {
+        "pos": [
+          160,
+          149
+        ],
+        "hip": 55282
+      },
+      {
+        "pos": [
+          55,
+          242
+        ],
+        "hip": 54682
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Cup",
+    "native": "Crater",
+    "context": "IAU constellation name"
+  },
+  "iau": "Crt",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "CON modern Lyr",
+  "lines": [
+    [
+      91262,
+      91971,
+      92420,
+      93194,
+      92791,
+      91971
+    ]
+  ],
+  "image": {
+    "file": "illustrations/lyra.png",
+    "size": [
+      256,
+      256
+    ],
+    "anchors": [
+      {
+        "pos": [
+          100,
+          96
+        ],
+        "hip": 92791
+      },
+      {
+        "pos": [
+          157,
+          38
+        ],
+        "hip": 91262
+      },
+      {
+        "pos": [
+          139,
+          162
+        ],
+        "hip": 92420
+      }
+    ]
+  },
+  "common_name": {
+    "english": "Lyre",
+    "native": "Lyra",
+    "context": "IAU constellation name"
+  },
+  "iau": "Lyr",
+  "source_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
+  "source_repository": "Stellarium/stellarium",
+  "source_path": "skycultures/modern"
+}
