@@ -4,11 +4,11 @@
   "stellarium_commit": "0942871e114e1753c2a239bdc9b64b59d983c155",
   "data_license": "CC-BY-SA-4.0",
   "illustration_license": "Free Art License",
-  "starplot_version": "0.21.4",
+  "starplot_version": "0.22.0",
   "files": {
     "BIGSKY-LICENSE.txt": "8dc8c2947178050c21cfe9038226be2a984ef59c6ed2b09ad816e203b8f58de5",
     "FREE-ART-LICENSE-1.3.txt": "3bbfcd8d42995c1c2195836fe22d0bedc48c104f7422266ff15c0f2a742f722b",
-    "THIRD_PARTY_NOTICES.md": "aa111fbe70da23e1f0d98f20fbd8029d435e4e8681eb44f29fc4d2d2d13ed79f",
+    "THIRD_PARTY_NOTICES.md": "2fbda4624194aea22d8c7c478efedb55627e279fad83c5e420a39a04d637277d",
     "aliases.json": "b551c3adaf4d10ecc6f8d446a2d7f75eb2745754ff1dfcb55971608874e8096c",
     "andromeda-stars.json": "ad5023968445e49862a2d386e044ae89e56ac9b1fc1edbe93e64b6edf4a406fd",
     "andromeda.json": "119575c2ea5dd401a3b738d28fedd1c753f015a58959c39cfe484863521fcd1b",

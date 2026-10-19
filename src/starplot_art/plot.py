@@ -14,6 +14,7 @@ from starplot import (
     HorizonPlot as NativeHorizonPlot, GalaxyPlot as NativeGalaxyPlot, OpticPlot as NativeOpticPlot,
     LambertAzEqArea, Equidistant, Stereographic, StereoNorth, StereoSouth,
     Mollweide, Orthographic, Gnomonic, Miller,
+    Mercator, ObliqueMercator, PlateCarree, Robinson,
 )
 
 from .coordinates import coordinate_adapter
@@ -167,11 +168,13 @@ class _ArtMixin:
             result.save(filename, pnginfo=info)
 
     def _build_illustrations(self, art):
-        import starplot
-        if starplot.__version__ != "0.21.4":
-            raise RuntimeError("This release supports StarPlot 0.21.4's SVG Canvas only")
-        if type(self.projection) not in (Stereographic, StereoNorth, StereoSouth, Gnomonic, Mollweide, Orthographic, Miller, LambertAzEqArea, Equidistant):
-            raise ValueError("Art supports Stereographic, StereoNorth/South, Gnomonic, Mollweide, Orthographic, Miller, LambertAzEqArea and Equidistant")
+        # Validate the SVG interface rather than rejecting compatible releases
+        # solely by their version string. Packaging declares the tested range.
+        required = ("layout", "tx", "clip_path_display", "projected_bounds")
+        if not all(hasattr(self.canvas, name) for name in required):
+            raise RuntimeError("Constellation art requires StarPlot's SVG Canvas interface")
+        if type(self.projection) not in (Stereographic, StereoNorth, StereoSouth, Gnomonic, Mollweide, Orthographic, Miller, LambertAzEqArea, Equidistant, Mercator, ObliqueMercator, PlateCarree, Robinson):
+            raise ValueError("Art supports the 13 documented StarPlot projections")
         # Native MapPlot and ZenithPlot both use ICRS RA/Dec, even for
         # dated observers (native stars call radec() without epoch=).
         # The date changes the zenith/visibility, not the artwork frame.

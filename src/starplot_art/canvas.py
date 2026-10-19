@@ -1,4 +1,4 @@
-"""The single compatibility boundary with StarPlot 0.21.4's SVG backend."""
+"""The single compatibility boundary with StarPlot's SVG backend."""
 
 from dataclasses import dataclass
 import json

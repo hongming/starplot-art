@@ -1,6 +1,6 @@
 """Local entry point. Keep this file beside the src/ directory.
 
-Install StarPlot itself: python -m pip install starplot==0.21.4
+Install StarPlot itself: python -m pip install starplot
 All implementation and original PNG/JSON files live in src/starplot_art/.
 """
 

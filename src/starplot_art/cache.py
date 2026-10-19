@@ -34,8 +34,9 @@ def render_key(canvas, fingerprint, style, epoch, coordinate_context=None):
     import numpy
     import PIL
     import pyproj
+    import starplot
     return checksum({
-        "coordinates": coordinate_context,
+        "starplot_version": starplot.__version__, "coordinates": coordinate_context,
         "schema": SCHEMA, "package_version": __version__, "asset": fingerprint, "epoch_tt": epoch,
         "crs": canvas.crs.to_wkt(), "projection": canvas.tx.target_crs.to_wkt(),
         "bounds": list(canvas.projected_bounds), "width": canvas.width, "height": canvas.height,

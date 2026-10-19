@@ -11,7 +11,7 @@
 
 ## StarPlot 与 Big Sky
 
-- [StarPlot 0.21.4](https://github.com/steveberardi/starplot/tree/v0.21.4)：Steve Berardi，MIT；作为软件依赖。
+- [StarPlot 0.22.0](https://github.com/steveberardi/starplot/tree/v0.22.0)：Steve Berardi，MIT；作为软件依赖。
 - [Big Sky v0.1.3](https://github.com/steveberardi/starplot-bigsky/releases/tag/v0.1.3)：Steve Berardi，MIT；本包摘录定位所需的恒星坐标，许可原文见 `src/starplot_art/data/BIGSKY-LICENSE.txt`。
 
 第三方图片和数据及其衍生内容不适用本项目代码的 MIT 许可。对外分发应保留相应署名、许可和修改说明。
